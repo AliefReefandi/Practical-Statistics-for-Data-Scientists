@@ -245,7 +245,7 @@ https://github.com/gedeck/practical-statistics-for-data-scientists
 
 ## 📁 Struktur Repository
 
-```text
+text
 Practical-Statistics-for-Data-Scientists/
 │
 ├── Chapter_01_Exploratory_Data_Analysis.ipynb
