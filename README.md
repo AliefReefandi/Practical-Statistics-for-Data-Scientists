@@ -224,6 +224,25 @@ Repository ini menggunakan beberapa tools dan library berikut:
 
 ---
 
+## 📊 Dataset
+
+Beberapa contoh analisis dalam repository menggunakan dataset yang disediakan bersama buku.
+
+Dataset digunakan sesuai dengan kebutuhan masing-masing chapter, seperti:
+
+- `state.csv`
+- `loans_income.csv`
+- `loan_data.csv.gz`
+- `sp500_data.csv.gz`
+
+Dataset digunakan untuk menjalankan contoh analisis dan implementasi statistik yang dibahas dalam buku.
+
+Repository dataset dan kode resmi buku dapat ditemukan di:
+
+https://github.com/gedeck/practical-statistics-for-data-scientists
+
+--
+
 ## 📁 Struktur Repository
 
 ```text
