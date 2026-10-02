@@ -6,6 +6,16 @@ Repository ini dibuat untuk memenuhi tugas pembelajaran dan praktik berdasarkan 
 Peter Bruce, Andrew Bruce, Peter Gedeck  
 O'Reilly Media, 2nd Edition, 2020
 
+## 📑 Daftar Isi
+
+- [Tentang Repository](#-tentang-repository)
+- [Daftar Chapter](#-daftar-chapter)
+- [Tools dan Teknologi](#-tools-dan-teknologi)
+- [Cara Menjalankan](#-cara-menjalankan)
+- [Struktur Repository](#-struktur-repository)
+- [Tujuan Pembelajaran](#-tujuan-pembelajaran)
+- [Referensi](#-referensi)
+
 ## 📖 Tentang Repository
 
 Repository ini berisi rangkuman teori dan implementasi kode dari setiap chapter dalam buku *Practical Statistics for Data Scientists*.
