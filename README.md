@@ -243,12 +243,13 @@ https://github.com/gedeck/practical-statistics-for-data-scientists
 
 --
 
-## 📁 Struktur Repository
+---
 
-text
+## 📁 Struktur Repository
+`text
 Practical-Statistics-for-Data-Scientists/
 │
-├── Chapter_01_Exploratory_Data_Analysis.ipynb
+├── Chapter_1_Exploratory_Data_Analysis.ipynb
 ├── Chapter_2_Data_and_Sampling_Distributions.ipynb
 ├── Chapter_3_Statistical_Experiments_and_Significance_Testing.ipynb
 ├── Chapter_4_Regression_and_Prediction.ipynb
@@ -257,7 +258,7 @@ Practical-Statistics-for-Data-Scientists/
 ├── Chapter_7_Unsupervised_Learning.ipynb
 ├── Chapter_8_Recommender_Systems.ipynb
 │
-└── README.md
+└── README.md`
 
 🎯 Tujuan Pembelajaran
 Melalui repository ini, diharapkan dapat:
